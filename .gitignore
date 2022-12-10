@@ -1,0 +1,4 @@
+venv.json
+src/*.egg-info
+build
+__pycache__

@@ -1,0 +1,2 @@
+[console_scripts]
+md2wp = md2wp.__main__:main
